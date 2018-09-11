@@ -1,10 +1,8 @@
-# Google-ML-with-Mathematica
-
-Running Google ML video examples in Mathematica 
-
-Two (2) steps to update your RPI (tested on Model 3 B+ with 32Gb card):
+# Machine Learning instruction in Mathematica on Raspberry Pi
 
 ## Pi Setup 
+
+Two (2) steps to update your RPi (tested on Model 3 B+ with 32Gb card):
 1. Update the Pi to the current version of its base software and Mathematica (v11.3 is needed for the classroom workbook), bring up a terminal prompt and run:
 
 ```bash
