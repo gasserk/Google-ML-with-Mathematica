@@ -9,7 +9,7 @@ Two (2) steps to update your RPi (tested on Model 3 B+ with 32Gb card):
 sudo apt-get update && sudo apt-get install wolfram-engine
 ```
 
-(Depending on the size of the update and the speed of your network, this could take a little bit of time.  This will be how you keep the Pi up to date, just like with a Mac or a smartphone.  Detail: http://community.wolfram.com/groups/-/m/t/157340).
+(Depending on the size of the update and the speed of your network, this could take a little bit of time.  This will be how you keep the Pi up to date, similar to what is required to a Linux desktop or server.  Detail: http://community.wolfram.com/groups/-/m/t/157340).
 
 2. Open Chromium (the Pi browser) and download the instructional notebook from this Github repository: https://github.com/gasserk/Google-ML-with-Mathematica/blob/master/codersLab.nb (the codersLab.nb Mathematica notebook will by default be placed in the /home/pi/Downloads directory).
 
